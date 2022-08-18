@@ -8,7 +8,7 @@ A Registration Form built using HTML, CSS and JavaScript that allows the user to
 
 ## Demo
 
-https://abhigyan-srivastava.github.io/Online_Banking_System/
+https://abhigyan-srivastava.github.io/RegistrationForm/
 
 ## Author
 
